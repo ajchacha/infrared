@@ -1,4 +1,4 @@
-## Untitled Proxy!
+# Untitled Proxy! PLEASE STAR!!!!
 A fast proxy that is lightweight and has efficency in mind!
 <br>
 <a href="https://discord.gg/jRhV84Nb">Discord Server</a>
