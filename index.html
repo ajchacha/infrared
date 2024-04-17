@@ -2281,12 +2281,15 @@ best school proxies
                     win.document.body.style.margin = '0';
                     win.document.body.style.height = '100vh';
                     var iframe = win.document.createElement('iframe');
+                    var script = win.document.createElement('script');
+                    script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8465060523203457';
+                    script.crossorigin = 'anonymous';
                     iframe.style.border = 'none';
                     iframe.style.width = '100%';
                     iframe.style.height = '100%';
                     iframe.style.margin = '0';
                     iframe.src = url;
-                    win.document.body.appendChild(iframe);
+                    win.document.body.appendChild(iframe, script);
                     location.replace("about:blank");
                 }
             };
