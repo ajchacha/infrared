@@ -633,3 +633,39 @@
       left: 0;
      }
     
+     .menu-bar {
+        font-size: larger;
+        background-color: white;
+        display: flex;
+        justify-content: flex-start;
+        box-sizing: border-box;
+        border-radius: 20px;
+        margin: 0;
+        padding: 0;
+      }
+    
+    .menu-bar a {
+      color: black;
+      text-decoration: none;
+    }
+    
+    .menu-bar a:hover {
+      text-decoration: none;
+      cursor: pointer;
+    } 
+      
+      .item {
+        background-color: transparent;
+        font-size: 18px;
+        display: inline-block;
+        box-sizing: border-box;
+        padding: 14px 20px;
+      }
+      
+      .item.title {
+        font-weight: 600;
+      }
+      
+      .item:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+      }
