@@ -1,7 +1,7 @@
 ## Untitled Proxy!
 A fast proxy that is lightweight and has efficency in mind!
 <br>
-<a src="https://discord.gg/jRhV84Nb">Discord Server</a>
+<a href="https://discord.gg/jRhV84Nb">Discord Server</a>
 <br>
 # How to host?
 Currently it is static(Without a bare server) running on my own special bare server!
