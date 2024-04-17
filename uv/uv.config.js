@@ -1,4 +1,5 @@
 self.__uv$config = {
+    scope: '/Service-Worker-Allowed/',
     prefix: '/service/',
     bare: 'https://bare.bareproxy.workers.dev/',
     encodeUrl: Ultraviolet.codec.xor.encode,
