@@ -1,7 +1,6 @@
 self.__uv$config = {
-    scope: '/Service-Worker-Allowed/',
-    prefix: '/service/',
-    bare: 'https://bare.bareproxy.workers.dev/',
+    prefix: '/a/',
+    bare: 'https://history.about.dansted.org/o/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
