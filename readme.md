@@ -1,4 +1,4 @@
-# <a href="https://discord.gg/jRhV84Nb">Discord Server</a>
+[# <a href="[https://discord.gg/jRhV84Nb](https://discord.gg/tf673CkW)">Discord Server</a>](https://discord.gg/tf673CkW) 
 # Untitled Proxy! PLEASE STAR!!!!
 A fast proxy that is lightweight and has efficency in mind!
 # How to host?
