@@ -1,10 +1,10 @@
 self.__uv$config = {
-    prefix: 'https://history.about.dansted.org/a/',
-    bare: 'https://history.about.dansted.org/o/',
+    prefix: '/service/',
+    bare: 'https://bare.bareproxy.workers.dev/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
-    bundle: 'https://history.about.dansted.org/m/bundle.js?v=5',
+    bundle: '/uv/uv.bundle.js',
     config: '/uv/uv.config.js',
-    sw: 'https://history.about.dansted.org/m/sw.js?v=4',
+    sw: '/uv/uv.sw.js',
 };
